@@ -1,11 +1,11 @@
 # databaseGenerator
 Project to explore using Faker and generating random test data in a MySQL database.
 
-###The purpose of this project is to showcase and practice my learning of the following:
-    +Creation of classes, methods and functions.
-    +Connectivity to, and use of, relational database from within python.
-    +Explore the use of Faker for creating test data for different languages.
-    +Practice the analysis of data using SQL queries.
+### The purpose of this project is to showcase and practice my learning of the following:
+    + Creation of classes, methods and functions.
+    + Connectivity to, and use of, relational database from within python.
+    + Explore the use of Faker for creating test data for different languages.
+    + Practice the analysis of data using SQL queries.
 
 With dataGenerator.py you can create test tables and data for a database, which contains random name, address and email detail.  
 The database platform is MySQL.
